@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("xcqw onCreate 我是QA分支1");
         System.out.println("xcqw onCreate 我是QA分支2");
+        System.out.println("xcqw onCreate 我是dev分支");
     }
 }
