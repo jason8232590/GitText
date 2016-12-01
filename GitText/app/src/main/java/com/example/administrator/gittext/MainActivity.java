@@ -9,5 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        System.out.println("xcqw onCreate 我是QA分支1");
+        System.out.println("xcqw onCreate 我是QA分支2");
     }
 }
